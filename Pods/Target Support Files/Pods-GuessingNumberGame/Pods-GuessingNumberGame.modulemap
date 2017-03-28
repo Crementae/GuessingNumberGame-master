@@ -1,0 +1,6 @@
+framework module Pods_GuessingNumberGame {
+  umbrella header "Pods-GuessingNumberGame-umbrella.h"
+
+  export *
+  module * { export * }
+}
